@@ -1,0 +1,35 @@
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\Accounts Holder.exe.config
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\Accounts Holder.exe
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\Accounts Holder.pdb
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\EntityFramework.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\System.Data.SQLite.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\EntityFramework.xml
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\System.Data.SQLite.xml
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormAccountData.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormGeneratePassword.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormGroupData.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormGroups.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormLogin.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormMoveToGroup.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormUserAccounts.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.FormUserData.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.Widgets.WidgetAccountTile.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts_Holder.View.Widgets.WidgetImageSelector.resources
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.exe
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.pdb
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\Accounts Holder.exe.manifest
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\Accounts Holder.application
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.exe.manifest
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\obj\Debug\Accounts Holder.application
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\x86\sqlite3.dll
+C:\Users\Даниил\Desktop\Диплом\Accounts Holder\Sources\Accounts Holder\Accounts Holder\bin\Debug\x64\sqlite3.dll
